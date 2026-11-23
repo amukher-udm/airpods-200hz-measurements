@@ -1,0 +1,10 @@
+podsense
+
+The AirPods accessory protocol messages and the layout of the motion report
+used in this software derive from MousePods, Copyright 2026 Matteo Gaudioso
+(starman-tech), https://github.com/starman-tech/mousepods. Its source code is
+licensed under the Apache License 2.0 and its findings under Creative Commons
+Attribution 4.0. Changes were made. The Windows transport in podsense/_windows.py
+and the Linux connection steps in podsense/_linux.py derive from MousePods as well.
+
+Not affiliated with Apple Inc. AirPods is a trademark of Apple Inc.

@@ -1,0 +1,79 @@
+{
+  "samples": 1497,
+  "requested_hz": 25.0,
+  "duration_sensor_s": 60.007248,
+  "rate_sensor_hz": 24.93032175046588,
+  "period_ms": 40.112,
+  "duplicates": 0,
+  "out_of_order": 0,
+  "holes": 0,
+  "missing": 0,
+  "expected": 1497,
+  "loss_pct": 0.0,
+  "longest_gap_sensor_ms": 40.113,
+  "off_grid": 0,
+  "hole_sizes": {},
+  "duration_host_s": 59.98834599996917,
+  "rate_host_hz": 24.938177158622924,
+  "interarrival_ms": {
+    "median": 33.76150003168732,
+    "p90": 60.8609999762848,
+    "p99": 95.07715008221567,
+    "max": 158.80899992771447
+  },
+  "callbacks": 1487,
+  "burst_size": {
+    "mean": 1.0067249495628783,
+    "p99": 1.0,
+    "max": 2,
+    "share_single_pct": 99.32750504371216,
+    "hist": {
+      "1": 1477,
+      "2": 10
+    }
+  },
+  "callback_interarrival_ms": {
+    "median": 33.83150009904057,
+    "p90": 61.09750003088266,
+    "p99": 95.07945007644594,
+    "max": 158.80899992771447
+  },
+  "longest_gap_host_ms": 158.80899992771447,
+  "drift_ppm": 7.86648078948877,
+  "delay_variation_ms": {
+    "median": 15.254344193326284,
+    "p90": 34.6417611950009,
+    "p99": 62.11644492253537,
+    "max": 122.99020395624095
+  },
+  "pipe_delay_ms": {
+    "median": 0.2000001259148121,
+    "p90": 0.2590001095086336,
+    "p99": 0.4050400480628004,
+    "max": 53.9989999961108
+  },
+  "identical_consecutive": 0,
+  "identical_even_index": 0,
+  "identical_odd_index": 0,
+  "counter_step": 8,
+  "counter_missing": 0,
+  "counter_holes": 0,
+  "counter_off_step": 0,
+  "counter_repeats": 0,
+  "counter_backward": 0,
+  "counter_loss_pct": 0.0,
+  "counter_agrees_with_timestamps": true,
+  "samples_per_message": {
+    "1": 1495,
+    "2": 1
+  },
+  "reconnect_attempts": 3,
+  "sessions_opened": 1,
+  "session_losses": 0,
+  "stream_restarts": 0,
+  "run_id": "20261121-080720_E2_25hz_r3",
+  "status": "ok",
+  "error": null,
+  "time_to_session_open_s": 12.20266199996695,
+  "time_to_first_sample_s": 11.433460166910663
+}

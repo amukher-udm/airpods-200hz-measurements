@@ -1,0 +1,87 @@
+{
+  "samples": 5986,
+  "requested_hz": 100.0,
+  "duration_sensor_s": 60.048499,
+  "rate_sensor_hz": 99.66943553410053,
+  "period_ms": 10.028,
+  "duplicates": 0,
+  "out_of_order": 0,
+  "holes": 1,
+  "missing": 3,
+  "expected": 5989,
+  "loss_pct": 0.050091835030889965,
+  "longest_gap_sensor_ms": 40.113,
+  "off_grid": 0,
+  "hole_sizes": {
+    "3": 1
+  },
+  "duration_host_s": 59.99533500010148,
+  "rate_host_hz": 99.75775616537314,
+  "interarrival_ms": {
+    "median": 1.3110002037137747,
+    "p90": 30.38179990835488,
+    "p99": 65.21803997457027,
+    "max": 154.5859999023378
+  },
+  "callbacks": 5393,
+  "burst_size": {
+    "mean": 1.1099573521231225,
+    "p99": 3.0,
+    "max": 10,
+    "share_single_pct": 90.63600964212868,
+    "hist": {
+      "1": 4888,
+      "2": 435,
+      "3": 63,
+      "4": 3,
+      "5": 2,
+      "7": 1,
+      "10": 1
+    }
+  },
+  "callback_interarrival_ms": {
+    "median": 1.4854999026283622,
+    "p90": 30.992899928241975,
+    "p99": 66.42543985508382,
+    "max": 154.5859999023378
+  },
+  "longest_gap_host_ms": 154.5859999023378,
+  "drift_ppm": 8.307000934713283,
+  "delay_variation_ms": {
+    "median": 15.361484375654669,
+    "p90": 37.45572411453007,
+    "p99": 69.18566660986721,
+    "max": 149.11877533991384
+  },
+  "pipe_delay_ms": {
+    "median": 0.11200015433132648,
+    "p90": 0.21199998445808887,
+    "p99": 0.7079500355757725,
+    "max": 80.19800018519163
+  },
+  "identical_consecutive": 0,
+  "identical_even_index": 0,
+  "identical_odd_index": 0,
+  "counter_step": 2,
+  "counter_missing": 3,
+  "counter_holes": 1,
+  "counter_off_step": 0,
+  "counter_repeats": 0,
+  "counter_backward": 0,
+  "counter_loss_pct": 0.050091835030889965,
+  "counter_agrees_with_timestamps": true,
+  "samples_per_message": {
+    "1": 5963,
+    "2": 7,
+    "9": 1
+  },
+  "reconnect_attempts": 3,
+  "sessions_opened": 1,
+  "session_losses": 0,
+  "stream_restarts": 0,
+  "run_id": "20261121-073242_E2_100hz_r1",
+  "status": "ok",
+  "error": null,
+  "time_to_session_open_s": 11.958081749966368,
+  "time_to_first_sample_s": 11.19444658397697
+}

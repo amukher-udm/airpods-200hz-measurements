@@ -1,0 +1,86 @@
+{
+  "samples": 6001,
+  "requested_hz": 100.0,
+  "duration_sensor_s": 60.005545,
+  "rate_sensor_hz": 99.99075918733844,
+  "period_ms": 9.998,
+  "duplicates": 0,
+  "out_of_order": 0,
+  "holes": 1,
+  "missing": 2,
+  "expected": 6003,
+  "loss_pct": 0.03331667499583542,
+  "longest_gap_sensor_ms": 29.993,
+  "off_grid": 2,
+  "hole_sizes": {
+    "2": 1
+  },
+  "duration_host_s": 59.99401399982162,
+  "rate_host_hz": 100.00997766240212,
+  "interarrival_ms": {
+    "median": 1.2950000818818808,
+    "p90": 30.388799961656336,
+    "p99": 65.29524985700849,
+    "max": 125.50099985674024
+  },
+  "callbacks": 5290,
+  "burst_size": {
+    "mean": 1.1344045368620037,
+    "p99": 3.0,
+    "max": 9,
+    "share_single_pct": 88.31758034026464,
+    "hist": {
+      "1": 4672,
+      "2": 532,
+      "3": 84,
+      "4": 1,
+      "9": 1
+    }
+  },
+  "callback_interarrival_ms": {
+    "median": 1.5840001869946718,
+    "p90": 31.21119998395443,
+    "p99": 66.57967983745039,
+    "max": 125.50099985674024
+  },
+  "longest_gap_host_ms": 125.50099985674024,
+  "drift_ppm": 4.566441196678746,
+  "delay_variation_ms": {
+    "median": 14.976698147090792,
+    "p90": 36.03423768940869,
+    "p99": 66.9804814730882,
+    "max": 117.43661630495392
+  },
+  "pipe_delay_ms": {
+    "median": 0.13299984857439995,
+    "p90": 0.27600000612437725,
+    "p99": 0.5069999024271965,
+    "max": 158.5309999063611
+  },
+  "identical_consecutive": 0,
+  "identical_even_index": 0,
+  "identical_odd_index": 0,
+  "counter_step": 2,
+  "counter_missing": 2,
+  "counter_holes": 1,
+  "counter_off_step": 0,
+  "counter_repeats": 0,
+  "counter_backward": 0,
+  "counter_loss_pct": 0.03331667499583542,
+  "counter_agrees_with_timestamps": true,
+  "samples_per_message": {
+    "1": 5981,
+    "2": 4,
+    "3": 1,
+    "9": 1
+  },
+  "reconnect_attempts": 3,
+  "sessions_opened": 1,
+  "session_losses": 0,
+  "stream_restarts": 0,
+  "run_id": "20261121-070304_E1_100hz_r1",
+  "status": "ok",
+  "error": null,
+  "time_to_session_open_s": 12.189345041988418,
+  "time_to_first_sample_s": 11.401119833113626
+}

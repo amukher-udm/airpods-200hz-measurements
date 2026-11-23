@@ -1,0 +1,21 @@
+host_time,type,detail
+1136607.584367,run_start,20261121-075512_E2_200hz_r2
+1136607.774954,open_start,Opening a session with AirPods Pro #2 (AirPods Pro (2nd generation))
+1136610.013366,reconnect_attempt,"Reconnecting the AirPods, attempt 1 of 8"
+1136612.433689,log,"That channel is no use (no handshake reply), trying again"
+1136612.938024,reconnect_attempt,"Reconnecting the AirPods, attempt 2 of 8"
+1136616.141874,log,"That channel is no use (no motion data), trying again"
+1136616.644885,reconnect_attempt,"Reconnecting the AirPods, attempt 3 of 8"
+1136620.920509,reconnect_attempt,"Reconnecting the AirPods, attempt 4 of 8"
+1136621.264970,placement,"in_ear,in_ear"
+1136622.482199,session_open,"Session open, asking for 200 Hz"
+1136645.120496,stream_restart,"No samples for 4 s, asking for the stream again"
+1136649.401272,stream_restart,"No samples for 8 s, asking for the stream again"
+1136651.299450,session_lost,Session lost (no motion data for 10 s on an open channel); opening a new one in 2 s
+1136653.394620,open_start,Opening a session with AirPods Pro #2 (AirPods Pro (2nd generation))
+1136655.632112,reconnect_attempt,"Reconnecting the AirPods, attempt 1 of 8"
+1136659.245065,reconnect_attempt,"Reconnecting the AirPods, attempt 2 of 8"
+1136665.009021,reconnect_attempt,"Reconnecting the AirPods, attempt 3 of 8"
+1136665.249808,placement,"in_ear,in_ear"
+1136666.435057,session_open,"Session open, asking for 200 Hz"
+1136682.483717,run_end,6915 samples

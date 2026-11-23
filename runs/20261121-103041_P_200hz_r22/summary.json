@@ -1,0 +1,98 @@
+{
+  "samples": 14939,
+  "requested_hz": 200.0,
+  "duration_sensor_s": 75.056697,
+  "rate_sensor_hz": 199.02287999697083,
+  "period_ms": 5.014,
+  "duplicates": 0,
+  "out_of_order": 0,
+  "holes": 10,
+  "missing": 32,
+  "expected": 14971,
+  "loss_pct": 0.2137465767149823,
+  "longest_gap_sensor_ms": 100.271,
+  "off_grid": 0,
+  "hole_sizes": {
+    "1": 5,
+    "2": 4,
+    "19": 1
+  },
+  "duration_host_s": 74.99621100001968,
+  "rate_host_hz": 199.18339607845093,
+  "interarrival_ms": {
+    "median": 1.2839999981224537,
+    "p90": 8.504500030539935,
+    "p99": 46.398529950529316,
+    "max": 194.11399983800948
+  },
+  "callbacks": 12440,
+  "burst_size": {
+    "mean": 1.2008842443729904,
+    "p99": 4.0,
+    "max": 10,
+    "share_single_pct": 85.21704180064309,
+    "hist": {
+      "1": 10601,
+      "2": 1497,
+      "3": 200,
+      "4": 69,
+      "5": 23,
+      "6": 22,
+      "7": 12,
+      "8": 8,
+      "9": 7,
+      "10": 1
+    }
+  },
+  "callback_interarrival_ms": {
+    "median": 1.677999971434474,
+    "p90": 16.19480010122062,
+    "p99": 47.803339995443814,
+    "max": 194.11399983800948
+  },
+  "longest_gap_host_ms": 194.11399983800948,
+  "drift_ppm": 5.703817184350942,
+  "delay_variation_ms": {
+    "median": 14.595490027726601,
+    "p90": 38.268521051512536,
+    "p99": 69.17889378434857,
+    "max": 195.1834558825841
+  },
+  "pipe_delay_ms": {
+    "median": 0.12500002048909664,
+    "p90": 0.24700001813471317,
+    "p99": 0.41900007519870996,
+    "max": 133.41000000946224
+  },
+  "identical_consecutive": 0,
+  "identical_even_index": 0,
+  "identical_odd_index": 0,
+  "counter_step": 1,
+  "counter_missing": 32,
+  "counter_holes": 10,
+  "counter_off_step": 0,
+  "counter_repeats": 0,
+  "counter_backward": 0,
+  "counter_loss_pct": 0.2137465767149823,
+  "counter_agrees_with_timestamps": true,
+  "samples_per_message": {
+    "1": 13434,
+    "2": 374,
+    "3": 63,
+    "4": 39,
+    "5": 20,
+    "6": 21,
+    "7": 11,
+    "8": 8,
+    "9": 5
+  },
+  "reconnect_attempts": 4,
+  "sessions_opened": 1,
+  "session_losses": 0,
+  "stream_restarts": 0,
+  "run_id": "20261121-103041_P_200hz_r22",
+  "status": "ok",
+  "error": null,
+  "time_to_session_open_s": 32.65989120816812,
+  "time_to_first_sample_s": 31.89677995815873
+}

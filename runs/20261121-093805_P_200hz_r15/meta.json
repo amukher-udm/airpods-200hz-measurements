@@ -1,0 +1,82 @@
+{
+  "run_id": "20261121-093805_P_200hz_r15",
+  "exp": "P",
+  "repeat": 15,
+  "requested_hz": 200.0,
+  "requested_seconds": 120.0,
+  "started_utc": "2026-11-21T14:38:05+00:00",
+  "monotonic_at_start": 1142780.4863755,
+  "conditions": {
+    "in_ear": "both",
+    "audio": "none",
+    "distance": "0.5m",
+    "obstruction": "none"
+  },
+  "notes": "pilot recording",
+  "status": "ok",
+  "error": null,
+  "environment": {
+    "python": "3.14.5",
+    "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+    "podsense_commit": "dfbc2f2133a551d6186171b3d050a59451e34614",
+    "podsense_dirty": false,
+    "host_model": "Mac15,6",
+    "host_chip": "Apple M3 Pro",
+    "os": "macOS 27.0.1 (26A434)",
+    "pyobjc": "13.0"
+  },
+  "recorder": "podmeasure 1",
+  "bluetooth_at_start": {
+    "controller": {
+      "controller_chipset": "BCM_4388",
+      "controller_discoverable": "attrib_off",
+      "controller_firmwareVersion": "24.1.584.4710",
+      "controller_productID": "0x4A2E",
+      "controller_state": "attrib_on",
+      "controller_supportedServices": "0x1390039 < HFP AVRCP A2DP HID LEA AACP GATT SerialPort SCO >",
+      "controller_transport": "PCIe",
+      "controller_vendorID": "0x004C (Apple)"
+    },
+    "airpods": {
+      "device_batteryLevelCase": "99%",
+      "device_batteryLevelLeft": "56%",
+      "device_batteryLevelRight": "56%",
+      "device_caseVersion": "9B47",
+      "device_firmwareVersion": "9B47",
+      "device_minorType": "Headphones",
+      "device_productID": "0x2014",
+      "device_rssi": "-57",
+      "device_services": "0x880000 < AACP ACL >",
+      "device_vendorID": "0x004C"
+    }
+  },
+  "device_model": "AirPods Pro (2nd generation)",
+  "bluetooth_at_end": {
+    "controller": {
+      "controller_chipset": "BCM_4388",
+      "controller_discoverable": "attrib_off",
+      "controller_firmwareVersion": "24.1.584.4710",
+      "controller_productID": "0x4A2E",
+      "controller_state": "attrib_on",
+      "controller_supportedServices": "0x1390039 < HFP AVRCP A2DP HID LEA AACP GATT SerialPort SCO >",
+      "controller_transport": "PCIe",
+      "controller_vendorID": "0x004C (Apple)"
+    },
+    "airpods": {
+      "device_batteryLevelCase": "99%",
+      "device_batteryLevelLeft": "55%",
+      "device_batteryLevelRight": "56%",
+      "device_caseVersion": "9B47",
+      "device_firmwareVersion": "9B47",
+      "device_minorType": "Headphones",
+      "device_productID": "0x2014",
+      "device_rssi": "-57",
+      "device_services": "0x980019 < HFP AVRCP A2DP AACP GATT ACL >",
+      "device_vendorID": "0x004C"
+    }
+  },
+  "placement_reported": [
+    "in_ear",
+    "in_ear"
+  ]
+}

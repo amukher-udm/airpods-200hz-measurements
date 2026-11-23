@@ -1,0 +1,6 @@
+recording,samples,duration_s,rate_sensor_hz,rate_host_hz,period_ms,longest_step_sensor_ms,missing,non_increasing,host_interarrival_median_ms,host_interarrival_p99_ms,host_interarrival_max_ms
+75AC4612,966,19.30,50.000,49.991,20.000,20.000,0,0,28.72,66.71,75.98
+7B091E09,1478,29.54,50.000,49.975,20.000,20.000,0,0,28.38,68.60,83.34
+7F30B17D,1220,24.38,50.003,50.032,20.000,20.000,0,0,28.62,66.00,84.05
+A3AA7371,1474,29.46,50.000,49.993,20.000,20.000,0,0,28.85,66.16,76.35
+all (pooled rate),5138,,50.001,,,,,,,,

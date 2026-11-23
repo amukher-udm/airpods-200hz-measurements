@@ -1,0 +1,9 @@
+earbuds,requested_hz,runs,delivered_hz_mean,loss_pct_mean,arrival_p99_ms_mean,largest_same_time_group
+not worn,25,3,25.01,0.00,97.9,2
+not worn,50,3,50.01,0.00,75.1,4
+not worn,100,3,100.00,0.02,64.5,9
+not worn,200,3,199.36,0.34,44.9,11
+worn,25,3,24.93,0.00,95.1,2
+worn,50,3,49.86,0.00,73.5,6
+worn,100,3,99.68,0.04,63.8,10
+worn,200,3,198.93,0.26,44.3,23

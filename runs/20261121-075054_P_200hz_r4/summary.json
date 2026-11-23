@@ -1,0 +1,91 @@
+{
+  "samples": 1992,
+  "requested_hz": 200.0,
+  "duration_sensor_s": 9.991694,
+  "rate_sensor_hz": 199.26550993254997,
+  "period_ms": 5.013,
+  "duplicates": 0,
+  "out_of_order": 0,
+  "holes": 1,
+  "missing": 2,
+  "expected": 1994,
+  "loss_pct": 0.10030090270812438,
+  "longest_gap_sensor_ms": 15.041,
+  "off_grid": 0,
+  "hole_sizes": {
+    "2": 1
+  },
+  "duration_host_s": 9.992544000037014,
+  "rate_host_hz": 199.24855972539373,
+  "interarrival_ms": {
+    "median": 1.327000092715025,
+    "p90": 7.60100013576448,
+    "p99": 45.44950015842902,
+    "max": 76.38899981975555
+  },
+  "callbacks": 1777,
+  "burst_size": {
+    "mean": 1.120990433314575,
+    "p99": 3.0,
+    "max": 7,
+    "share_single_pct": 91.16488463702869,
+    "hist": {
+      "1": 1620,
+      "2": 130,
+      "3": 12,
+      "4": 8,
+      "5": 2,
+      "6": 1,
+      "7": 4
+    }
+  },
+  "callback_interarrival_ms": {
+    "median": 1.4115000376477838,
+    "p90": 9.907000116072595,
+    "p99": 47.37324989400804,
+    "max": 76.38899981975555
+  },
+  "longest_gap_host_ms": 76.38899981975555,
+  "drift_ppm": -79.26311423744215,
+  "delay_variation_ms": {
+    "median": 12.17406013950778,
+    "p90": 34.549060070135056,
+    "p99": 61.684467565067116,
+    "max": 80.99746514873
+  },
+  "pipe_delay_ms": {
+    "median": 0.09600003249943256,
+    "p90": 0.20299991592764854,
+    "p99": 0.5712499050423483,
+    "max": 82.33999996446073
+  },
+  "identical_consecutive": 0,
+  "identical_even_index": 0,
+  "identical_odd_index": 0,
+  "counter_step": 1,
+  "counter_missing": 2,
+  "counter_holes": 1,
+  "counter_off_step": 0,
+  "counter_repeats": 0,
+  "counter_backward": 0,
+  "counter_loss_pct": 0.10030090270812438,
+  "counter_agrees_with_timestamps": true,
+  "samples_per_message": {
+    "1": 1843,
+    "2": 36,
+    "3": 3,
+    "4": 6,
+    "5": 2,
+    "6": 1,
+    "7": 4
+  },
+  "reconnect_attempts": 3,
+  "sessions_opened": 1,
+  "session_losses": 0,
+  "stream_restarts": 0,
+  "run_id": "20261121-075054_P_200hz_r4",
+  "status": "ok",
+  "error": null,
+  "time_to_session_open_s": 12.570353290997446,
+  "time_to_first_sample_s": 11.80587620800361
+}

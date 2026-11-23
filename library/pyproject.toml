@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "podsense"
+version = "0.1.0"
+description = "High-rate motion data (about 200 Hz) from AirPods, on macOS, Linux and Windows"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.10"
+dependencies = ["pyobjc-framework-IOBluetooth; sys_platform == 'darwin'"]
+keywords = ["AirPods", "IMU", "head tracking", "macOS", "Linux", "Windows", "Bluetooth"]
+classifiers = ["Operating System :: MacOS", "Operating System :: POSIX :: Linux",
+               "Operating System :: Microsoft :: Windows", "Programming Language :: Python :: 3"]
+
+[project.scripts]
+podsense = "podsense.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

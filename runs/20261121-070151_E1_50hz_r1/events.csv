@@ -1,0 +1,9 @@
+host_time,type,detail
+1134149.464656,run_start,20261121-070151_E1_50hz_r1
+1134149.606565,open_start,Opening a session with AirPods Pro #2 (AirPods Pro (2nd generation))
+1134151.832949,reconnect_attempt,"Reconnecting the AirPods, attempt 1 of 8"
+1134155.515803,reconnect_attempt,"Reconnecting the AirPods, attempt 2 of 8"
+1134159.957356,reconnect_attempt,"Reconnecting the AirPods, attempt 3 of 8"
+1134160.217561,placement,"out,out"
+1134161.477371,session_open,"Session open, asking for 50 Hz"
+1134221.527027,run_end,3003 samples

@@ -1,0 +1,84 @@
+{
+  "samples": 6009,
+  "requested_hz": 100.0,
+  "duration_sensor_s": 60.065666,
+  "rate_sensor_hz": 100.02386388257145,
+  "period_ms": 9.998,
+  "duplicates": 0,
+  "out_of_order": 0,
+  "holes": 0,
+  "missing": 0,
+  "expected": 6009,
+  "loss_pct": 0.0,
+  "longest_gap_sensor_ms": 9.998,
+  "off_grid": 0,
+  "hole_sizes": {},
+  "duration_host_s": 59.984110000077635,
+  "rate_host_hz": 100.15985900252957,
+  "interarrival_ms": {
+    "median": 1.297999988310039,
+    "p90": 30.29430010356009,
+    "p99": 66.47631985833873,
+    "max": 106.79799993522465
+  },
+  "callbacks": 5346,
+  "burst_size": {
+    "mean": 1.1240179573512907,
+    "p99": 3.0,
+    "max": 9,
+    "share_single_pct": 89.52487841376731,
+    "hist": {
+      "1": 4786,
+      "2": 465,
+      "3": 92,
+      "4": 2,
+      "9": 1
+    }
+  },
+  "callback_interarrival_ms": {
+    "median": 1.5810001641511917,
+    "p90": 31.08899989165368,
+    "p99": 68.33903986029358,
+    "max": 106.79799993522465
+  },
+  "longest_gap_host_ms": 106.79799993522465,
+  "drift_ppm": 5.839719907339648,
+  "delay_variation_ms": {
+    "median": 15.167139288344748,
+    "p90": 38.016166830164224,
+    "p99": 70.1060820964677,
+    "max": 107.52006891351904
+  },
+  "pipe_delay_ms": {
+    "median": 0.13200007379055023,
+    "p90": 0.26020007207989676,
+    "p99": 0.4759201314300299,
+    "max": 55.52900000475347
+  },
+  "identical_consecutive": 0,
+  "identical_even_index": 0,
+  "identical_odd_index": 0,
+  "counter_step": 2,
+  "counter_missing": 0,
+  "counter_holes": 0,
+  "counter_off_step": 0,
+  "counter_repeats": 0,
+  "counter_backward": 0,
+  "counter_loss_pct": 0.0,
+  "counter_agrees_with_timestamps": true,
+  "samples_per_message": {
+    "1": 5977,
+    "2": 10,
+    "3": 1,
+    "9": 1
+  },
+  "reconnect_attempts": 3,
+  "sessions_opened": 1,
+  "session_losses": 0,
+  "stream_restarts": 0,
+  "run_id": "20261121-070755_E1_100hz_r2",
+  "status": "ok",
+  "error": null,
+  "time_to_session_open_s": 12.758339833002537,
+  "time_to_first_sample_s": 11.972562832990661
+}

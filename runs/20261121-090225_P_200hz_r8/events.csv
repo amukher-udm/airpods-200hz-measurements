@@ -1,0 +1,9 @@
+host_time,type,detail
+1140640.186155,run_start,20261121-090225_P_200hz_r8
+1140640.319423,open_start,Opening a session with AirPods Pro #2 (AirPods Pro (2nd generation))
+1140642.599300,reconnect_attempt,"Reconnecting the AirPods, attempt 1 of 8"
+1140646.223614,reconnect_attempt,"Reconnecting the AirPods, attempt 2 of 8"
+1140650.606695,reconnect_attempt,"Reconnecting the AirPods, attempt 3 of 8"
+1140650.856635,placement,"in_ear,in_ear"
+1140652.017511,session_open,"Session open, asking for 200 Hz"
+1140716.023353,run_end,12704 samples

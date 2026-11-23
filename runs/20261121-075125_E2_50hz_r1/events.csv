@@ -1,0 +1,12 @@
+host_time,type,detail
+1136380.617874,run_start,20261121-075125_E2_50hz_r1
+1136380.732848,open_start,Opening a session with AirPods Pro #2 (AirPods Pro (2nd generation))
+1136382.945929,reconnect_attempt,"Reconnecting the AirPods, attempt 1 of 8"
+1136385.525881,log,"That channel is no use (no handshake reply), trying again"
+1136386.029813,reconnect_attempt,"Reconnecting the AirPods, attempt 2 of 8"
+1136389.225864,log,"That channel is no use (no motion data), trying again"
+1136389.729951,reconnect_attempt,"Reconnecting the AirPods, attempt 3 of 8"
+1136393.938773,reconnect_attempt,"Reconnecting the AirPods, attempt 4 of 8"
+1136394.256927,placement,"in_ear,in_ear"
+1136395.507025,session_open,"Session open, asking for 50 Hz"
+1136455.527939,run_end,2993 samples
