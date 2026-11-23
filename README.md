@@ -1,8 +1,7 @@
 # Review archive: recorder, analysis and recordings
 
-This archive accompanies the submission "An Empirical Study of High-Rate Motion Sensing with Apple
-AirPods" and stands in for the software and data reference in the paper. It is anonymised for
-review; the public release will carry a version tag.
+This repository accompanies the submission "An Empirical Study of High-Rate Motion Sensing with Apple
+AirPods" .
 
 ## Contents
 
